@@ -1,0 +1,2 @@
+include ':monkeytest'
+include ':app', ':battery', ':pingnet', ':toucher'
